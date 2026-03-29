@@ -1,0 +1,28 @@
+Prevention Checklist
+
+🔒 General Safety Tips
+
+Use strong and unique passwords for all accounts
+Enable two-factor authentication (2FA) wherever possible
+Do not click on suspicious links or unknown emails (phishing)
+Keep your devices and apps updated regularly
+Avoid using public Wi-Fi for sensitive transactions
+
+💳 Financial / UPI Safety Tips
+
+Never share your UPI PIN, OTP, or banking details with anyone
+Always verify payment requests before approving them
+Use only trusted apps like official banking or verified UPI apps
+Check the receiver’s name carefully before sending money
+
+🧑‍💻 Personal Data Protection
+
+Do not share personal information (Aadhaar, phone number, address) publicly
+Be cautious while downloading files or apps from unknown sources
+Review app permissions before installing
+
+🚨 Awareness & Reporting
+
+Be aware of common scams like phishing, fake job offers, and lottery frauds
+Immediately report any cybercrime on the National Cyber Crime Portal (cybercrime.gov.in)
+Call Helpline Number: 1930 in case of financial fraud
